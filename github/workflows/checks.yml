@@ -1,7 +1,6 @@
 name: checks
 
 on: push
-    pull-request
 jobs:
   # build – произвольно выбранное имя задания
   # их может быть больше одного
